@@ -1,0 +1,3 @@
+- 👋 Olá me chamo Murilo Gomes Pereira
+- 👀 tenho bastante interesse em progamação de jogos e sites
+- 🌱 estou no ensino médio procuro aprender muito com meus professores
