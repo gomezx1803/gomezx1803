@@ -13,4 +13,4 @@
 
 💻 Desenvolvedor estudante e iniciante, fazendo vários projetos, logo estarão visíveis a você
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomezx1803&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomezx1803&theme=blue-green&show_icons=true)
